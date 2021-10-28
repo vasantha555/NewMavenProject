@@ -1,7 +1,7 @@
 package pages;
 
 import org.openqa.selenium.WebDriver;
-
+//This is a product page
 public class ProductPage {
 
     WebDriver driver;
