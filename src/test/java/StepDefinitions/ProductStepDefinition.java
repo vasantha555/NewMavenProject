@@ -7,7 +7,7 @@ public class ProductStepDefinition {
     @And("Click on {string}")
     public void enterProduct(String shirt)
     {
-
+     System.out.println("Inside product stepdefinition");
 
     }
     @Then("Product List should be opened")
